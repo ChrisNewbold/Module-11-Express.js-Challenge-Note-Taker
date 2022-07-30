@@ -1,6 +1,6 @@
 const express = require("express");
 const path = require('path');
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const app = express();
 // this tells express to serve html from this folder so it knows where to serve the front end from
 app.use(express.static('public'));
