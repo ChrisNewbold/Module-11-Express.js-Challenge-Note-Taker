@@ -1,12 +1,17 @@
 [
     {
-        "id": "sktwivdnl67ririu",
-        "title": "sadasdasdas",
-        "text": "dasdsa"
+        "id": "3mrav1vw0l67u4hea",
+        "title": "Servers",
+        "text": "Learning about servers was interesting but challenging."
     },
     {
-        "id": "3mrav1v4tl67tf871",
-        "title": "sdas",
-        "text": "dasdsa"
+        "id": "3mrav1vw0l67u5t76",
+        "title": "Express.JS",
+        "text": "Learning about expressJS was interesting but challenging."
+    },
+    {
+        "id": "3mrav1vw0l67u6986",
+        "title": "HEROKU",
+        "text": "Learning about Heroku was great! "
     }
 ]

@@ -15,8 +15,7 @@ router.post("/notes", (req, res) => {
         title: req.body.title,
         text: req.body.text
     }
-    readAndAppend(note, 'db/db.json')
-    res.json(note);
+    readAndAppend(note, 'db/db.json').then(() => res.json(note));
 });
 // this gets the id that the user wants to delete from req.perams.id
 // reads the current notes from the db file 
@@ -27,8 +26,7 @@ router.delete("/notes/:id", (req, res) => {
         .then((data) => {
             const notes = JSON.parse(data)
             const notesWithoutDeletedNote = notes.filter(note => note.id !== req.params.id)
-            writeToFile('db/db.json', notesWithoutDeletedNote)
-            res.json()
+            writeToFile('db/db.json', notesWithoutDeletedNote).then(() => res.json())
         })
 });
 
