@@ -51,6 +51,7 @@ The following images show the web application's appearance and functionality of 
 
 ![Notes page](./assets/Note%20Taker%20Notes%20pg.png)
 
+Link to the live application below:
 [URL of the application](https://newbold-note-taker.herokuapp.com/)
 
 ## Skills Used
