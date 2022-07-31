@@ -2,11 +2,11 @@
 
 ## Table of Content
 
-- [My Task](#MyTask)
-- [User Story](#usage)
-- [Acceptance Criteria](#AcceptanceCriteria)
-- [Mock-Up](#Mock-Up)
-- [Skills Used](#SkillsUsed)
+- [My Task](#my-task)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Mock-Up](#mock-up)
+- [Skills Used](#skills-used)
 - [Credits](#credits)
 
 ## My Task
