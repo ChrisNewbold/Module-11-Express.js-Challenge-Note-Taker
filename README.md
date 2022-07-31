@@ -45,13 +45,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality of the homepage:
 
-![Screen Shot of generated HTML file](./assets/Note%20Taker%20Home%20pg.png)
+![Homepage](./assets/Note%20Taker%20Home%20pg.png)
 
 The following images show the web application's appearance and functionality of the notes page:
 
-![GIF of generated HTML file](./assets/Note%20Taker%20Notes%20pg.png)
+![Notes page](./assets/Note%20Taker%20Notes%20pg.png)
 
-![URL of the application](https://newbold-note-taker.herokuapp.com/)
+[URL of the application](https://newbold-note-taker.herokuapp.com/)
 
 ## Skills Used
 
@@ -66,5 +66,5 @@ And, Heroku.
 
 ## Credits
 
-![Uniqid](https://www.npmjs.com/package/uniqid)
-Web Dev Simplfied ![Learn Express JS in 35 Minutes](https://www.youtube.com/watch?v=SccSCuHhOw0&t=628s)
+• [Uniqid](https://www.npmjs.com/package/uniqid)
+• Web Dev Simplfied [Learn Express JS in 35 Minutes](https://www.youtube.com/watch?v=SccSCuHhOw0&t=628s)
